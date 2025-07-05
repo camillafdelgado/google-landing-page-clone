@@ -18,10 +18,10 @@ A fun and simple clone of the Google homepage built using HTML and CSS. This pro
 <table>
   <tr>
     <td align="center">
-      <img src="screenshot-desktop.png" alt="Desktop View" width="250" />
+      <img src="./assets/images/desktop-responsive.png" alt="Desktop View" width="250" />
     </td>
     <td align="center">
-      <img src="screenshot-mobile.png" alt="Mobile View" width="250" />
+      <img src="./assets/images/iphone-se-responsive.png" alt="Mobile View" width="250" />
     </td>
   </tr>
   <tr>
