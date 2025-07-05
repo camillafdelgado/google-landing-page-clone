@@ -23,12 +23,12 @@ A fun and simple clone of the Google homepage built using HTML and CSS. This pro
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/images/desktop-responsive.png.png" alt="Desktop View" width="300" />
+      <img src="./assets/images/desktop-responsive.png" alt="Desktop View" width="300" />
       <br />
       <sub>💻 Desktop View</sub>
     </td>
     <td align="center">
-      <img src="./assets/images/iphone-se-responsive.png.png" alt="Mobile View" width="300" />
+      <img src="./assets/images/iphone-se-responsive.png" alt="Mobile View" width="300" />
       <br />
       <sub>📱 Mobile View</sub>
     </td>
