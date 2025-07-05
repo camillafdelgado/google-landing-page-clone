@@ -1,7 +1,5 @@
 # Google Landing Page Clone
 
-# Google Landing Page Clone
-
 A fun and simple clone of the Google homepage built using HTML and CSS. This project was created to practice front-end layout techniques and mimic a familiar, clean user interface.
 
 ## 💻 Features
@@ -19,6 +17,23 @@ A fun and simple clone of the Google homepage built using HTML and CSS. This pro
 
 ![Desktop Responsive Google Clone Screenshot](./assets/images/desktop-responsive.png)
 ![iPhone SE Responsive Google Clone Screenshot](./assets/images/iphone-se-responsive.png)
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/images/desktop-responsive.png.png" alt="Desktop View" width="300" />
+      <br />
+      <sub>💻 Desktop View</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/images/iphone-se-responsive.png.png" alt="Mobile View" width="300" />
+      <br />
+      <sub>📱 Mobile View</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Getting Started
 
